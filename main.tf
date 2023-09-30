@@ -1,8 +1,8 @@
 # main.tf
 
 provider "aws" {
-  access_key = "AKIAVWOC5C6TSLQZUEVF"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 provider "aws" {
